@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **FullStack Development**
 
-- 💬 Ask me about **HTML , CSS , Php , Mysql , JavaScript , Magento , Wordpress , Shopify , AWS , etc **
+- 💬 Ask me about **HTML , CSS , Php , Mysql , JavaScript , Magento , Wordpress , Shopify , AWS , etc**
 
 - 🌱 Dedicated to continuous learning and professional growth, embracing new challenges and opportunities every day.
 
