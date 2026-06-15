@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **FullStack Development**
 
-- 💬 Ask me about **HTML , CSS , Php , Mysql , JavaScript , Magento**
+- 💬 Ask me about **HTML , CSS , Php , Mysql , JavaScript , Magento , Wordpress , Shopify , AWS , etc **
 
-- 🌱 I’m currently learning **Laravel , DSA**
+- 🌱 Dedicated to continuous learning and professional growth, embracing new challenges and opportunities every day.
 
 - 👯 I’m looking to collaborate on **New Projects**
 
